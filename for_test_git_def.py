@@ -18,3 +18,12 @@ def multiplicationAB(a: int, b:int):
     :return:
     '''
     return a * b
+
+def divisionAB(a: int, b:int):
+    '''
+    функция возвращает частное двух чисел a / b
+    :param a:
+    :param b:
+    :return:
+    '''
+    return a / b
