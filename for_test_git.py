@@ -7,3 +7,4 @@ print('Hallo world!')
 a = 7
 b = 10
 print(git_def.sumAB(a, b))
+print(git_def.multiplicationAB(a, b))

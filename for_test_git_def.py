@@ -9,3 +9,12 @@ def sumAB(a: int, b:int):
     :return:
     '''
     return a + b
+
+def multiplicationAB(a: int, b:int):
+    '''
+    функция возвращает произведение двух чисел a * b
+    :param a:
+    :param b:
+    :return:
+    '''
+    return a * b
